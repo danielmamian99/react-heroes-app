@@ -5,5 +5,6 @@ Tech Stack:
   -Framework Css: Bootstrap
   -Bundle: Vite
   -State Management: Context
+  -Package Management: Yarn
 
 run with 'yarn dev'
